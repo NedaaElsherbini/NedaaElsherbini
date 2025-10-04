@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Software Engineering @ Mansoura Univerity 
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **nedaaelsherbini@gmail.com**
 
